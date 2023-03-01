@@ -22,10 +22,21 @@
         android:id="@+id/tv_sesi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="xxxxxxxxxx"
+        android:text="Xxxxxxxxxx"
         android:gravity="center_horizontal"
         android:textSize="20sp"
         />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="oooooo"
+        android:gravity="center_horizontal"
+        android:textSize="20sp"
+        android:paddingTop="15px"
+        android:id="@+id/tv_nama"
+        android:layout_gravity="center_horizontal"
+        />
+
     <Button
         android:id="@+id/btn_logout"
         android:layout_width="match_parent"
